@@ -3,7 +3,8 @@ my base ubuntu setup project using vagrant and virtualbox
 
 # Usage
 
-Run below command in the shell
+Run below command in the shell   
+
 $./start
 
 # License
